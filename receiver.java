@@ -1,10 +1,7 @@
 import java.io.*;
 import java.net.*;
 import java.util.*;
-/**
- *
- * @author StarkeeCode
- */
+
 public class receiver {
     public static void main(String args[])
 {
